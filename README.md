@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I launched my first startup just before hitting 18**
 
-- 👨‍💻 All of my projects are available at **[https://truehannan.me](https://truehannan.me)**
+- 👨‍💻 For more info about me, look at **[https://truehannan.me](https://truehannan.me)**
 
 - 📝 I regularly write articles on **[https://truehannan.me/blogs](https://truehannan.me/blogs)**
 
