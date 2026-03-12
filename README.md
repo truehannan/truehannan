@@ -16,7 +16,7 @@
 
 - 👨‍💻 For more info about me, look at **[https://truehannan.vercel.app](https://truehannan.vercel.app)**
 
-- 📝 I regularly write articles on **[https://truehannan.vercel.app/notes](https://truehannan.vercel.app/notes)**
+- 📝 I regularly write articles on **[https://truehannan.vercel.app/posts](https://truehannan.vercel.app/posts)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
