@@ -10,13 +10,13 @@
 
 - 💬 Ask me about **Ideas and scaling projects**
 
-- 📫 How to reach me **chat@truehannan.me**
+- 📫 How to reach me **hannanofx@gmail.com**
 
 - ⚡ Fun fact **I launched my first startup just before hitting 18**
 
-- 👨‍💻 For more info about me, look at **[https://truehannan.me](https://truehannan.me)**
+- 👨‍💻 For more info about me, look at **[https://truehannan.vercel.app](https://truehannan.vercel.app)**
 
-- 📝 I regularly write articles on **[https://truehannan.me/blogs](https://truehannan.me/blogs)**
+- 📝 I regularly write articles on **[https://truehannan.vercel.app/notes](https://truehannan.vercel.app/notes)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
