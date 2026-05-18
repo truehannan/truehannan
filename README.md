@@ -14,9 +14,9 @@
 
 - ⚡ Fun fact **I launched my first startup just before hitting 18**
 
-- 👨‍💻 For more info about me, look at **[https://truehannan.vercel.app](https://truehannan.vercel.app)**
+- 👨‍💻 For more info about me, look at **[https://hannan.pages.dev](https://hannan.pages.dev)**
 
-- 📝 I regularly write articles on **[https://truehannan.vercel.app/posts](https://truehannan.vercel.app/posts)**
+- 📝 I regularly write articles on **[https://hannan.pages.dev/posts](https://hannan.pages.dev/posts)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
