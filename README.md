@@ -1,6 +1,8 @@
+![Hannan](V_Tegotl_400x400.jpg)
+
 # Hi 👋, I'm Hannan
 
-### A Creative Developer and Devops Engineer
+### A Creative Developer,founder, embded and Devops Engineer
 
 - 🔭 I'm currently working on **a project of my startup called GenofX**
 
