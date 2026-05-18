@@ -1,34 +1,165 @@
-![Hannan](V_Tegotl_400x400.jpg)
-
-# Hi 👋, I'm Hannan
-
-### A Creative Developer,founder, embded and Devops Engineer
-
-- 🔭 I'm currently working on **a project of my startup called GenofX**
-
-- 🌱 I'm currently learning **some Backend frameworks and kubernetes**
-
-- 🤝 I'm looking for help with **developing and maintaining my startup GenofX**
-
-- 💬 Ask me about **Ideas and scaling projects**
-
-- 📫 How to reach me **hannanofx@gmail.com**
-
-- ⚡ Fun fact **I launched my first startup just before hitting 18**
-
-- 👨‍💻 For more info about me, look at **[https://hannan.pages.dev](https://hannan.pages.dev)**
-
-- 📝 I regularly write articles on **[https://hannan.pages.dev/posts](https://hannan.pages.dev/posts)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/truehannan" target="blank"><img align="center" src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="truehannan" height="30" width="40" /></a>
-<a href="https://github.com/truehannan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="truehannan" height="30" width="40" /></a>
-<a href="https://instagram.com/truehannan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="truehannan" height="30" width="40" /></a>
-<a href="https://twitter.com/truehannan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="truehannan" height="30" width="40" /></a>
-<a href="https://discord.gg/truehannan." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="truehannan." height="30" width="40" /></a>
+<p align="center">
+  <img src="V_Tegotl_400x400.jpg" width="140" style="border-radius:50%;" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/amplify" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfc_j0KMr4e0C2X0Kqv-bk4NBKq-UJ6tHJQQ&s" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/zapier" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" width="40" height="40"/> </a></p>
+<h1 align="center">
+  Hey, I'm Hannan 👋
+</h1>
 
+<p align="center">
+  <b>Founder • Systems Builder • Embedded & DevOps Engineer • Open-Source Creator</b>
+</p>
+
+<p align="center">
+  Building products, infrastructure and intelligent systems.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Systems-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open_Source-Builder-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embedded-Engineering-1f6feb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DevOps-Infrastructure-0ea5e9?style=for-the-badge"/>
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ About Me
+
+</div>
+
+```txt
+> I build systems, not demos.
+```
+
+I'm a developer and startup builder focused on designing practical systems across software, infrastructure, AI and embedded engineering.
+
+Instead of working around a single niche, I enjoy exploring how products, automation and scalable systems connect together.
+
+- 🧠 Building software, infrastructure and intelligent workflows
+- 🔧 Embedded systems & hardware experimentation
+- 🌍 Contributing to and building open-source projects
+- ☁️ Interested in DevOps, cloud and scalable backend systems
+- 🚀 Exploring startup and product development from idea to deployment
+- 💡 Ask me about ideas, systems and scaling products
+
+---
+
+<div align="center">
+
+### 🌌 Ventures & Projects
+
+</div>
+
+<table>
+<tr>
+<td width="70">
+
+<img src="https://genofx.com/genofx-logo.png" width="52"/>
+
+</td>
+<td>
+
+### GenofX
+
+A side startup and experimental ecosystem focused on AI tools, connected workflows and builder-first systems.
+
+GenofX is one of several ventures and experiments I explore while continuing to build open-source and independent projects.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🛠 Engineering Stack
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Infrastructure
+
+Docker  
+Kubernetes  
+Linux  
+AWS  
+Azure  
+GCP  
+
+</td>
+<td width="33%" valign="top">
+
+### Backend
+
+Node.js  
+Express  
+FastAPI  
+PostgreSQL  
+MongoDB  
+Redis  
+
+</td>
+<td width="33%" valign="top">
+
+### Frontend & Apps
+
+React  
+Next.js  
+Vue  
+Tailwind  
+TypeScript  
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### AI • Automation • Systems
+
+</div>
+
+<p align="center">
+Python • APIs • HuggingFace • Automation • Zapier • Cloud Workflows
+</p>
+
+---
+
+<div align="center">
+
+### 🌐 Presence
+
+</div>
+
+<p align="center">
+<a href="https://hannan.pages.dev">Portfolio</a> •
+<a href="https://hannan.pages.dev/posts">Articles</a> •
+<a href="mailto:hannanofx@gmail.com">Email</a>
+</p>
+
+<p align="center">
+<a href="https://dev.to/truehannan">
+<img src="https://cdn.simpleicons.org/devdotto" width="30"/>
+</a>
+<a href="https://github.com/truehannan">
+<img src="https://cdn.simpleicons.org/github" width="30"/>
+</a>
+<a href="https://instagram.com/truehannan">
+<img src="https://cdn.simpleicons.org/instagram" width="30"/>
+</a>
+<a href="https://twitter.com/truehannan">
+<img src="https://cdn.simpleicons.org/x" width="30"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+<i>Building, experimenting and learning in public.</i>
+</p>
