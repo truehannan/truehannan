@@ -59,6 +59,10 @@ Instead of working around a single niche, I enjoy exploring how products, automa
 
 ---
 
+![Hannan's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=truehannan&theme=radical&hide_border=true)
+
+---
+
 <div align="center">
 
 ### 🌌 Ventures & Projects
@@ -158,16 +162,16 @@ Python • APIs • HuggingFace • Automation • Zapier • Cloud Workflows
 
 <p align="center">
 <a href="https://dev.to/truehannan">
-<img src="https://cdn.simpleicons.org/devdotto" width="30"/>
+<img src="https://cdn.simpleicons.org/devdotto/black/white" width="30"/>
 </a>
 <a href="https://github.com/truehannan">
-<img src="https://cdn.simpleicons.org/github" width="30"/>
+<img src="https://cdn.simpleicons.org/github/black/white" width="30"/>
 </a>
 <a href="https://instagram.com/truehannan">
 <img src="https://cdn.simpleicons.org/instagram" width="30"/>
 </a>
 <a href="https://twitter.com/truehannan">
-<img src="https://cdn.simpleicons.org/x" width="30"/>
+<img src="https://cdn.simpleicons.org/x/black/white" width="30"/>
 </a>
 </p>
 
