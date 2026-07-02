@@ -185,6 +185,8 @@ Python • APIs • HuggingFace • Automation • Zapier • Cloud Workflows
 </a>
 </p>
 
+[![GitHub](https://img.shields.io/badge/GitHub-truehannan-00bf63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/truehannan) [![Twitter](https://img.shields.io/badge/Twitter-truehannan-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/truehannan)
+
 ---
 
 <p align="center">
