@@ -23,6 +23,10 @@
 
 ---
 
+![Streak](https://streak-stats.demolab.com?user=truehannan&theme=dark&background=1B1B1B&border=3a3a3a&ring=00bf63&fire=00bf63&currStreakLabel=00bf63)
+
+---
+
 ```txt
 --     /$$   /$$                                                  
 --    | $$  | $$                                                  
