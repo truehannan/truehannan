@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="V_Tegotl_400x400.jpg" width="140" style="border-radius:50%;" />
+  <img src="V_Tegotl_400x400.jpg" width="140" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">
