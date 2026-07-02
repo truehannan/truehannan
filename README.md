@@ -94,6 +94,12 @@ GenofX is one of several ventures and experiments I explore while continuing to 
 
 ---
 
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=truehannan&theme=github-dark&bg_color=1B1B1B&color=00bf63&line=00bf63&point=ffffff&area=true&hide_border=true)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=truehannan&theme=github_dark&utcOffset=0)
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=truehannan&theme=github_dark)
+
+---
+
 <div align="center">
 
 ### 🛠 Engineering Stack
