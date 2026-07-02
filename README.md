@@ -23,10 +23,6 @@
 
 ---
 
-![Streak](https://streak-stats.demolab.com?user=truehannan&theme=dark&background=1B1B1B&border=3a3a3a&ring=00bf63&fire=00bf63&currStreakLabel=00bf63)
-
----
-
 ```txt
 --     /$$   /$$                                                  
 --    | $$  | $$                                                  
@@ -62,6 +58,8 @@ Instead of working around a single niche, I enjoy exploring how products, automa
 - 💡 Ask me about ideas, systems and scaling products
 
 ---
+
+![Streak](https://streak-stats.demolab.com?user=truehannan&theme=dark&background=1B1B1B&border=3a3a3a&ring=00bf63&fire=00bf63&currStreakLabel=00bf63)
 
 ![Hannan's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=truehannan&theme=radical&hide_border=true)
 
