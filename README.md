@@ -6,8 +6,6 @@
   Hey, I'm Hannan 👋
 </h1>
 
-![Followers](https://img.shields.io/github/followers/truehannan?style=for-the-badge&color=00bf63&labelColor=1B1B1B&logo=github)![Views](https://komarev.com/ghpvc/?username=truehannan&color=00bf63&style=for-the-badge&label=PROFILE+VIEWS)![Stars](https://img.shields.io/github/stars/truehannan?style=for-the-badge&color=00bf63&labelColor=1B1B1B&logo=github&label=Total%20Stars&affiliations=OWNER)
-
 <p align="center">
   <b>Founder • Systems Builder • Embedded & DevOps Engineer • Open-Source Creator</b>
 </p>
