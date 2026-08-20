@@ -21,19 +21,8 @@
   <img src="https://img.shields.io/badge/DevOps-Infrastructure-0ea5e9?style=for-the-badge"/>
 </p>
 
----
-
-```txt
---     /$$   /$$                                                  
---    | $$  | $$                                                  
---    | $$  | $$  /$$$$$$  /$$$$$$$  /$$$$$$$   /$$$$$$  /$$$$$$$ 
---    | $$$$$$$$ |____  $$| $$__  $$| $$__  $$ |____  $$| $$__  $$
---    | $$__  $$  /$$$$$$$| $$  \ $$| $$  \ $$  /$$$$$$$| $$  \ $$
---    | $$  | $$ /$$__  $$| $$  | $$| $$  | $$ /$$__  $$| $$  | $$
---    | $$  | $$|  $$$$$$$| $$  | $$| $$  | $$|  $$$$$$$| $$  | $$
---    |__/  |__/ \_______/|__/  |__/|__/  |__/ \_______/|__/  |__/
-```
-
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=truehannan&theme=github_dark&utcOffset=0)
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=truehannan&theme=github_dark)
 ---
 
 <div align="center">
@@ -41,10 +30,6 @@
 ### ⚡ About Me
 
 </div>
-
-```txt
-> I build systems, not demos.
-```
 
 I'm a developer and startup builder focused on designing practical systems across software, infrastructure, AI and embedded engineering.
 
@@ -63,36 +48,7 @@ Instead of working around a single niche, I enjoy exploring how products, automa
 
 ---
 
-<div align="center">
-
-### 🌌 Ventures & Projects
-
-</div>
-
-<table>
-<tr>
-<td width="70">
-
-<img src="https://genofx.com/genofx-logo.png" width="52"/>
-
-</td>
-<td>
-
-### GenofX
-
-A side startup and experimental ecosystem focused on AI tools, connected workflows and builder-first systems.
-
-GenofX is one of several ventures and experiments I explore while continuing to build open-source and independent projects.
-
-</td>
-</tr>
-</table>
-
----
-
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=truehannan&theme=github-dark&bg_color=1B1B1B&color=00bf63&line=00bf63&point=ffffff&area=true&hide_border=true)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=truehannan&theme=github_dark&utcOffset=0)
-![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=truehannan&theme=github_dark)
 
 ---
 
